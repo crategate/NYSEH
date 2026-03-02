@@ -1,0 +1,6 @@
+{
+	"name": "NYSE Hours",
+	"symbol": "NYSEH",
+	"description": "Rejects all transactions unless NYSE is open",
+	"image": "https://copper-quick-koi-488.mypinata.cloud/ipfs/bafkreid2p2ju73h6eqxkowlwsezvf7hbsmmu6nngxm7jrzdn2mwvf5byui"
+}

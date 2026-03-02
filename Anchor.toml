@@ -12,7 +12,7 @@ nyseh = "4QYEwXsTut3ourrNjbHN8DJYLNPVLLZ3WGoYgH9vG9aR"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
