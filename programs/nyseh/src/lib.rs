@@ -10,7 +10,7 @@ use anchor_spl::{
 declare_id!("4QYEwXsTut3ourrNjbHN8DJYLNPVLLZ3WGoYgH9vG9aR");
 
 #[program]
-mod nyseh_token {
+mod nyseh {
     use super::*;
 
     pub fn initiate_token(ctx: Context<InitToken>, metadata: InitTokenParams) -> Result<()> {
