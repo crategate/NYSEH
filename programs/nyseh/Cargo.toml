@@ -24,6 +24,8 @@ custom-panic = []
 anchor-lang = { version = "0.32.1", features = ["init-if-needed"]}
 anchor-spl = {version = "0.32.1", features = ["metadata"]}
 mpl-token-metadata = "5.1.1"
+spl-tlv-account-resolution = "0.11.1"
+spl-transfer-hook-interface = "2.1.0"
 
 
 
